@@ -1,0 +1,5 @@
+The buttons use our primary colour to draw attention and stand out. Each button has a specific purpose.
+
+- The regular buttons are for cards, forms and where the background is light.
+- The light buttons are for dark background areas.
+- The ghost buttons are used exclusively on banners where the background is an image.
