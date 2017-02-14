@@ -16,3 +16,20 @@
 
   color: var(--color-primary);
 }
+
+.btn:hover {
+  background-color: var(--color-accent);
+  border-color: var(--color-accent);
+}
+
+.btn-light:hover {
+  background-color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.btn-ghost:hover {
+  background-color: transparent;
+  border-color: var(--color-accent);
+
+  color: var(--color-accent);
+}
