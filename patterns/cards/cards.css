@@ -1,0 +1,19 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.blue {
+  background-color: var(--color-primary-light);
+}
+
+.title {
+  color: var(--color-accent);
+}
+
+.icon {
+  color: var(--color-primary-light);
+}
