@@ -10,3 +10,8 @@
 .colour {
   color: var(--color-accent);
 }
+
+.world {
+  text-align: center;
+  padding-top: 5%;
+}

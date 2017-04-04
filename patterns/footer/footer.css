@@ -3,10 +3,11 @@
   color: #fff;
 }
 
-a {
+.footer a {
+
   color: var(--color-primary);
 }
 
-a:hover {
+.footer a:hover {
   color: var(--color-accent);
 }
