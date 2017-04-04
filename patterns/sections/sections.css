@@ -1,0 +1,12 @@
+.title {
+  text-align: center;
+  color: var(--color-accent);
+}
+
+.centre {
+  text-align: center;
+}
+
+.colour {
+  color: var(--color-accent);
+}
