@@ -2,7 +2,7 @@
   background-color: var(--color-primary-light);
 }
 
-.title {
+.card {
   color: var(--color-accent);
 }
 
@@ -14,4 +14,32 @@
   background-image: url("../../images/brad.jpg");
   background-size: cover;
   background-position: center center;
+}
+
+.richi {
+  background-image: url("../../images/brad2.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+
+.richo {
+  background-image: url("../../images/bruno.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+
+.riche {
+  background-image: url("../../images/lassie.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+
+.richa {
+  background-image: url("../../images/jay.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+
+.space {
+  padding-bottom: 2em;
 }
